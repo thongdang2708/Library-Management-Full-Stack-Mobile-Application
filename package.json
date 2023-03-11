@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-native-toast-message": "^2.1.6"
+  },
+  "devDependencies": {
+    "@types/react-native-dotenv": "^0.2.0"
+  }
+}
