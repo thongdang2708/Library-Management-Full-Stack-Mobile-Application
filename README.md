@@ -34,7 +34,7 @@ JWT.secretKey=
 secret.key.admin=
 
 
-#Max file size.Default is 1MB
+#Max file size.Default is 10MB
 spring.servlet.multipart.max-file-size=
 
 #Max request size.Default is 10MB
