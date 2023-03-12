@@ -16,4 +16,6 @@ expo start
 
 Video:
 
+https://drive.google.com/file/d/1-QiUQBJTTL10QorjBieuDPpEKMhlvdcy/view?usp=share_link
+
 
