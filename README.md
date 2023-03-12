@@ -1,6 +1,6 @@
 # Library-Management-Full-Stack-Mobile-Application
 
-For backend side, please run: 
+For backend side, to run: 
 
 ```bash
 cd library-backend
